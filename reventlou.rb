@@ -9,5 +9,5 @@ cask "reventlou" do
     homepage "https://github.com/b3z/reventlou"
   
     app "reventlou.app"
-  end
+end
   
