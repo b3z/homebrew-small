@@ -1,4 +1,4 @@
-# B3z Small
+# A place for projects that are too small for the offical homebrew-cask repo.
 
 ## How do I install these formulae?
 `brew install b3z/small/<formula>`
