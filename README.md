@@ -58,4 +58,4 @@ Keep in mind all of these checks will be made when you submit your PR, so by doi
 
 If your application and Homebrew Cask do not work well together, feel free to [file an issue](https://github.com/Homebrew/homebrew-cask#reporting-bugs) after checking out open issues.
 
-4. finally make a pr to this repo with your .rb - you can click [here]() to do that.
+4. finally make a pr to this repo with your .rb - you can click [here](https://github.com/b3z/homebrew-small/pulls) to do that.
