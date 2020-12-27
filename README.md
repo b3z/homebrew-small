@@ -23,6 +23,8 @@ it will open in an editor. Now fill out the rest. If you don't know how you can 
 
 3. test your cask
 
+You can also replace `my-new-cask` with your .rb file.
+
 Give it a shot with:
 
 ```bash
