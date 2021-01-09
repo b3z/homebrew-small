@@ -1,5 +1,11 @@
 name: brew pr-pull
 on:
+  push:
+    branches-ignore:
+      - master
+      - staging.tmp
+      - trying.tmp
+      - staging-squash-merge.tmp
   pull_request_target:
     types:
       - labeled
