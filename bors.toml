@@ -1,4 +1,9 @@
+
 status = [
- "brew test-bot",
- "brew pr-pull",
+    "success",
+]
+
+# Same as 'status' (above) but statuses that must pass on every PR
+pr_status = [
+    "success",
 ]
