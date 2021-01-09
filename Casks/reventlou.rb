@@ -6,7 +6,7 @@ cask "reventlou" do
   url "https://github.com/b3z/reventlou/releases/download/#{version}/reventlou-#{version}-osx.dmg"
   appcast "https://github.com/b3z/reventlou/releases.atom"
   name "reventlou"
-  desc "Personal database to store all type of things and simply find them again."
+  desc "Personal database to store all type of things and simply find them again"
   homepage "https://github.com/b3z/reventlou"
 
   app "reventlou.app"
