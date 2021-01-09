@@ -1,9 +1,5 @@
 
 status = [
-    "success",
-]
-
-# Same as 'status' (above) but statuses that must pass on every PR
-pr_status = [
-    "success",
+    "brew test-bot / test-bot (ubuntu-latest) (pull_request)",
+    "brew test-bot / test-bot (macOS-latest) (pull_request)",
 ]
