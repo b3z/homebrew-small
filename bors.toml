@@ -1,0 +1,4 @@
+status = [
+ "brew test-bot",
+ "brew pr-pull",
+]
