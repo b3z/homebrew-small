@@ -2,6 +2,10 @@ name: brew test-bot
 on:
   push:
     branches: master
+    branches-ignore:
+      - staging.tmp
+      - trying.tmp
+      - staging-squash-merge.tmp
   pull_request:
 jobs:
   test-bot:
