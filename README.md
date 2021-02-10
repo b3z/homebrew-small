@@ -1,4 +1,4 @@
-# A place for projects that are too small for the offical homebrew-cask repo.
+# A place for my projects that are too small for the offical homebrew-cask repo.
 
 Why? Because some of my projects are to small for homebrew. Still I want to install them with the brew command. That's why. If you want you can use this tap too.
 
