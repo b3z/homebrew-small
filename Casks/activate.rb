@@ -1,5 +1,5 @@
 cask "activate" do
-  version "1.1.2"
+  version "1.1.1"
   sha256 "5433c963e74820ccaf60a3e537c64578ca5cbfd21e93c2f7371a9b79dfced80b"
 
   url "https://github.com/Lakr233/ActivateMac/releases/download/#{version}/Activate.zip"
